@@ -452,22 +452,6 @@ hr.line {
   background: #f2f2f2;
 }
 
-.contactIcon1 {
-  position: relative;
-  top:25;
-  left:150px;
-}
-
-.contactIcon2 {
-  position: relative;
-  top:25;
-}
-
-.contactIcon3 {
-  position: relative;
-  top:-23px;
-  left:-150px;
-}
 
 /* Landscape phone to portrait tablet */
 @media (min-width: 300px) and (max-width: 450px) {
@@ -488,8 +472,8 @@ hr.line {
     left:-50px;
   }
 }
-
-@media (min-width: 451px) and (max-width: 1000px) {
+/* Laptop screens ----------- */
+@media (min-width: 451px) and (max-width: 1278px) {
   .contactIcon1 {
     position: relative;
     top:25;
@@ -508,11 +492,12 @@ hr.line {
   }
 }
 
-@media (min-width: 1001px) and (max-width: 2000px) {
-  .contactIcon1 {
+/* Large screens ----------- */
+@media (min-width: 1279px) {
+    .contactIcon1 {
     position: relative;
     top:25;
-    left:90px;
+    left:150px;
   }
 
   .contactIcon2 {
@@ -522,8 +507,8 @@ hr.line {
 
   .contactIcon3 {
     position: relative;
-    top:-23px;
-    left:-90px;
+    top:2px;
+    left:-150px;
   }
 }
 
