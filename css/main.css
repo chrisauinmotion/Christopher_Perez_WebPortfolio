@@ -274,7 +274,7 @@ a:hover, a:focus {
    Main styles
    ========================================================================== */
 header {
-  background: url(../img/header-bg.jpg) no-repeat center center;
+  background: url("https://raw.githubusercontent.com/chrisauinmotion/Christopher_Perez_WebPortfolio/img/header-bg.jpg") no-repeat center center;
   width: 100%;
   padding: 20px 10px 60px 10px;
   height: 100vh;
@@ -405,7 +405,7 @@ header {
 
 
 #bg {
-  background: url(../img/bg.jpg) #231f20 no-repeat center center fixed;
+  background: url("https://raw.githubusercontent.com/chrisauinmotion/Christopher_Perez_WebPortfolio/img/bg.jpg") #231f20 no-repeat center center fixed;
   min-height: 300px;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -580,7 +580,7 @@ footer {
 }
 
 .headline {
-  background: url(../img/bg2.jpg) #231f20 no-repeat center center fixed;
+  background: url("https://raw.githubusercontent.com/chrisauinmotion/Christopher_Perez_WebPortfolio/img/bg2.jpg") #231f20 no-repeat center center fixed;
   color: #FFFFFF;
   padding: 10px;
   border-top-left-radius: 10px;
