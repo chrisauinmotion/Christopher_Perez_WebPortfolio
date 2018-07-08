@@ -567,6 +567,11 @@ footer {
   flex-wrap: wrap;
 }
 
+.publications-img {
+  width: 390px;
+  height: 305px;
+}
+
 .service-container {
   padding-left: 0px;
   padding-right: 0px;
@@ -845,6 +850,20 @@ form textarea {
       background-attachment: scroll;
   }
 
+  .header-info {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+    right: 0;
+    margin-left: 0px;
+    margin-bottom: -35%;
+  }
+
+  .publications-img {
+    width: 100vw;
+    height: 305px;
+  }
 }
 
 
