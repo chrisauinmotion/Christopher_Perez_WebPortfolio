@@ -551,7 +551,7 @@ footer {
   background: #69a1bc;
 }
 
-.publications {
+.publications.row.margin-50 {
   display: flex;
   justify-content: space-around;
 }
