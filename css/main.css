@@ -342,6 +342,9 @@ header {
   padding-top: 9px;
 }
 
+.landing-btns.row {
+  display: flex;
+}
 
 .mouse-icon {
     border: 2px solid #fff;
