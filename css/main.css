@@ -482,8 +482,7 @@ hr.line {
     left: 0;
     right: 0;
     margin-left: 0px;
-    margin-bottom: 0px;
-    margin-top: 25%;
+    margin-bottom: -10%;
   }
 }
 /* Laptop screens ----------- */
