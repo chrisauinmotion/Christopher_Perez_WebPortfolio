@@ -344,7 +344,6 @@ header {
 
 .landing-btns.row {
   display: flex;
-  flex-wrap: wrap;
 }
 
 .mouse-icon {
@@ -474,6 +473,10 @@ hr.line {
     position: relative;
     top:2px;
     left:-50px;
+  }
+
+  .landing-btns.row {
+    display: inline;
   }
 }
 /* Laptop screens ----------- */
