@@ -493,7 +493,8 @@ hr.line {
 
   .contactIcon3 {
     position: relative;
-    top:25;
+    top:25px;
+    left:-90px;
   }
 }
 
@@ -512,7 +513,8 @@ hr.line {
 
   .contactIcon3 {
     position: relative;
-    top:25;
+    top:25px;
+    left:-150px;
   }
 }
 
