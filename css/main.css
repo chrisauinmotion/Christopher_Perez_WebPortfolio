@@ -551,6 +551,11 @@ footer {
   background: #69a1bc;
 }
 
+.publications {
+  display: flex;
+  justify-content: space-around;
+}
+
 .service-container {
   padding-left: 0px;
   padding-right: 0px;
