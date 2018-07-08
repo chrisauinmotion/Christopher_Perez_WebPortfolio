@@ -344,6 +344,7 @@ header {
 
 .landing-btns.row {
   display: flex;
+  flex-wrap: wrap;
 }
 
 .mouse-icon {
@@ -554,6 +555,7 @@ footer {
 .publications.row.margin-50 {
   display: flex;
   justify-content: space-around;
+  flex-wrap: wrap;
 }
 
 .service-container {
