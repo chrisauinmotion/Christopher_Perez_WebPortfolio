@@ -472,10 +472,17 @@ hr.line {
   .contactIcon3 {
     position: relative;
     top:25;
+    left:-90px;
   }
 
-  .landing-btns.row {
-    display: inline;
+  .header-info {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+    right: 0;
+    margin-left: 0px;
+    margin-bottom: 0px;
   }
 }
 /* Laptop screens ----------- */
