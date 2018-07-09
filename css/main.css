@@ -314,7 +314,7 @@ header {
 .headerH1 {
   color: #57ebf5;
   font-weight:800;
-  text-shadow: 0px 0px 3px #555;
+  text-shadow: 1px 1px 2px black, 0 0 1em grey, 0 0 0.2em grey;
   /*font-family: Geo;
   font-size:78px;*/
 }
@@ -322,7 +322,7 @@ header {
 .headerH2 {
   color: #4abaea;
   font-weight:800;
-  text-shadow: 0px 0px 3px #555;
+  text-shadow: 1px 1px 2px black, 0 0 1em grey, 0 0 0.2em grey;
   text-transform: uppercase;
   /*font-family: Geo;
   font-size:62px;*/
